@@ -145,7 +145,9 @@ Books
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|-|IGI Global|2010|Scopus|No|Journal Paper|
+|[Enhanced Building Information Models Using IoT Services and Integration Patterns ](https://link.springer.com/book/10.1007/978-3-319-21825-0)|Springer Briefs in Computer Science|Springer|2015|N/A|No|Book|
+|[Innovations in 3D GeoInformation Sciences ](https://link.springer.com/book/10.1007/978-3-319-00515-7)|LNGC Series|Springer|2014|N/A|No|Book|
+|[Handbook of Research on Building Information Modeling and Construction Informatics ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|IGI Global|IGI Global|2009|N/A|No|Book|
 
 
 ISPRS Proceedings

@@ -49,9 +49,8 @@ BIM and GIS Integration
 ------
  My PhD research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 , where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring IFC objects and persisting into a 3D GeoDatabase as [multipatch](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/multipatch-geometry-type.pdf) features.
-Three key outputs were a [summary](https://www.sciencedirect.com/science/article/abs/pii/S1474034608000499) of my PhD, an intro to the [indoor model](https://www.sciencedirect.com/science/article/abs/pii/S0198971513000434)
-which I developed, and a discussion on how the BIM-GIS integration benefits in case of a [fire response](https://www.tandfonline.com/doi/abs/10.1080/17452007.2007.9684636) scenario.
-Two of these outputs have now become my [mostly cited](https://scholar.google.com.tr/citations?hl=tr&authuser=1&user=weQbA-EAAAAJ) academic papers.
+Three key outputs were [paper on BIM-GIS integration](https://www.sciencedirect.com/science/article/abs/pii/S1474034608000499), an intro to the [indoor model](https://www.sciencedirect.com/science/article/abs/pii/S0198971513000434)
+ developed, and use of integrated information for a [fire response](https://www.tandfonline.com/doi/abs/10.1080/17452007.2007.9684636) scenario.
 {: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
@@ -59,15 +58,12 @@ Two of these outputs have now become my [mostly cited](https://scholar.google.co
 
 BIM and IoT and GIS Integration for Smart Cities
 ------
-During my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Smart Cities with [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
-project, where I learned about distributed computing and service oriented approaches for integration, and  coded in frameworks such as 
-[COM+](https://en.wikipedia.org/wiki/Component_Object_Model) and [CORBA](https://www.corba.org/), 
-which later helped me to code in [SOAP](https://en.wikipedia.org/wiki/SOAP) and [REST](https://en.wikipedia.org/wiki/REST) styles. 
-This has encouraged me to work on implementation of [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and 
-[Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) and [IoT](https://en.wikipedia.org/wiki/Internet_of_things) 
-for/within BIM based information sharing. Key outputs of this path can be found in this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)
-and this [one](https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696), and also this [paper](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023) 
-which looks at the exact same issue but from the GeoInformaiton Management perspective.Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
+During my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on 
+BIM,GIS,WSNs for Smart Cities for the [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)project. 
+My integration related research later explained in this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)
+and this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696), later this [paper](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023) 
+explains some ideas from the GeoInformation Management perspective.
+Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
 {: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
@@ -75,16 +71,17 @@ which looks at the exact same issue but from the GeoInformaiton Management persp
 
 BIM Intergration and Implementation
 ------ 
-After I graduate from my PhD, I and my supervisor [Jason Underwood](https://www.salford.ac.uk/our-staff/jason-underwood), worked on publishing the 1st edited/multi-author 
-[Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234) in our field.In :13 I worked at University of Central Lancashire with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), 
-on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html).
+Following PhD I and my supervisor [Jason Underwood](https://www.salford.ac.uk/our-staff/jason-underwood), worked on publishing the 1st edited/multi-author 
+[Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234) in our field.
+In :13 I worked at University of Central Lancashire with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614) for a short period 
+on BIM related reseach.  paper was written together with 
 {: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[A generative design-to-BIM workflow for minimum weight plane truss design](https://revistadelaconstruccion.uc.cl/index.php/RDLC/article/view/46459)|Revista de la Construcción|Pontificia Universidad Católica de Chile|2022|SCIE|Yes|Journal Paper|
 |[Optimum Modelling for Rectangular Shape Reinforced Concrete (RC) Beam with the aim of Minimum CO2 Emission](https://scibulcom.net/en/article/XBkEmz7bCxV85y8Vz3sT)|Journal of Environmental Protection and Ecology|SBC|2021|SCIE|No|Journal Paper
-
+|[BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)|Construction Innovation|Emerald|2020|Scopus|No|Journal Paper|
 
 Construction Informatics
 ------
@@ -97,7 +94,7 @@ My PhD journey started by looking at IT Strategy for Turkish Construction Indust
 
 BIM for Valuation in 3D Cadastres
 ------
-My PhD Abdullah Kara
+Below you can find research outputs regarding this subject. Most of the papers was from PhD of [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr)
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
@@ -105,7 +102,7 @@ My PhD Abdullah Kara
 
 Construction Econometrics
 ------
-Looking at the time series problems that I deal with ANN, LSTM and Transformers with a different glass.
+Looking at the some problems in our field from Econometrics perspective.
 
 {: style="text-align: justify;"}
 
@@ -116,7 +113,7 @@ Looking at the time series problems that I deal with ANN, LSTM and Transformers 
 
 Social Science Research
 ------
-
+Papers involving surveys and qualitative social dimensions are listed here.
 {: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
@@ -132,28 +129,23 @@ Construction Management
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 
 
-
-Notable Events
-======
-
-
-Journal Editorship Roles
-------
-
-
-Journal Special Issues
-------
-
-
-Authored Book
-------
-
-
-Edited Books  
+Books
 ------
 [Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234) .
 
-Edited ISPRS Proceedings
+ISPRS Proceedings
+------
+
+
+Roles and Responsibilities
+======
+
+
+Journal Editorship
+------
+
+
+Editorship of Journal Special Issues
 ------
 
 Conferences Organized
@@ -162,19 +154,31 @@ Conferences Organized
 
 Teaching
 ======
-I have started teaching in 1999 and since then I have worked full and part time at (chronological order:) 
-Ege University, Beykent University, Istanbul Kultur University, Istanbul University, Istanbul Esenyurt University, 
-Bogazici University, Istanbul Technical University. 
 
-I have given guest lectures and talks in different organisations including 
-TU Delft, Universiti Teknologi Malaysia, HfT Stuttgart, 
-Curtin University Malaysia, Yildiz Technical University, 
-Balikesir University, Turgut Özal University, Sakarya University, Fırat University, Eskişehir Technical University, Gazi University.
+Lecturing
+-----
+- Ege University (FT :99-02)
+- Beykent University (FT :09-15)
+- Istanbul Kultur University (PT) 
+- Istanbul University (PT)
+- Bogazici University (PT)
+- Istanbul Technical University (PT)
+- Istanbul Esenyurt University (PT)
+
+Guest Lecture
+-----
+- TU Delft 
+- Universiti Teknologi Malaysia 
+- HfT Stuttgart 
+- Curtin University Malaysia 
+- Yildiz Technical University 
+- Balikesir University
+- Turgut Özal University
+- Sakarya University
+- Fırat University 
+- Eskişehir Technical University
+- Gazi University.
 {: style="text-align: justify;"}
-
-Affiliations
-======
-Mimar Sinan Fine Arts University, Architecture, Faculty Member
 
 About 
 ======

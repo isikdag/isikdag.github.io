@@ -130,15 +130,23 @@ Construction Management
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Arabian Journal of Geosciences|Springer|2022|Scopus|No|Journal Paper|
+|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC |Springer|2022|Scopus|No|Journal Paper|
 
 Books
 ------
-[Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234) .
+
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|-|IGI Global|2010|Scopus|No|Journal Paper|
+
+
 
 ISPRS Proceedings
 ------
 
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Placeholder](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|-|IGI Global|2010|Scopus|No|Journal Paper|
 
 Roles and Responsibilities
 ======
@@ -146,14 +154,23 @@ Roles and Responsibilities
 
 Journal Editorship
 ------
-
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Placeholder](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|-|IGI Global|2010|Scopus|No|Journal Paper|
 
 Editorship of Journal Special Issues
 ------
 
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Placeholder](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|-|IGI Global|2010|Scopus|No|Journal Paper|
+
 Conferences Organized
 ------
 
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Placeholder](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|-|IGI Global|2010|Scopus|No|Journal Paper|
 
 Teaching
 ======

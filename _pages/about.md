@@ -76,7 +76,7 @@ BIM Intergration and Implementation
 Following PhD I and my supervisor [Jason Underwood](https://www.salford.ac.uk/our-staff/jason-underwood), worked on publishing the 1st edited/multi-author 
 [Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234) in our field.
 In :13 I worked at University of Central Lancashire with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614) for a short period 
-on BIM related reseach.  paper was written together with 
+on BIM related reseach.
 {: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
@@ -94,6 +94,7 @@ My PhD journey started by looking at IT Strategy for Turkish Construction Indust
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Arabian Journal of Geosciences|Springer|2022|Scopus|No|Journal Paper|
+
 BIM for Valuation in 3D Cadastres
 ------
 Below you can find research outputs regarding this subject. Most of the papers was from PhD of [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr)

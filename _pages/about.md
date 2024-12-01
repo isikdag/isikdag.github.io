@@ -131,9 +131,14 @@ Construction Management
 Paper related to construction management can be found in this list.
 {: style="text-align: justify;"}
 
+
+
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC |Springer|2022|Scopus|No|Journal Paper|
+
+Books and Proceedings
+======
 
 Books
 ------
@@ -141,7 +146,6 @@ Books
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|-|IGI Global|2010|Scopus|No|Journal Paper|
-
 
 
 ISPRS Proceedings
@@ -154,8 +158,8 @@ ISPRS Proceedings
 Roles and Responsibilities
 ======
 
-
 Journal Editorship
+
 ------
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
@@ -171,7 +175,7 @@ Editorship of Journal Special Issues
 Conferences Organized
 ------
 
-|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+|                       Conference Name                             |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Placeholder](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|-|IGI Global|2010|Scopus|No|Journal Paper|
 
@@ -205,10 +209,15 @@ Guest Lecture
 
 Thesis of Students
 ======
-|                       Title                                |         Title in English                  | Name  |Publisher | Year  |
-| ------------------------------------------------------------------| ---------------------------------- |-------|----------|-------|
+
+|                       Title                                       |    Title in English                | Name  |Publisher | Year  |
+| ------------------------------------------------------------------| -----------------------------------|-------|----------|-------|
 |YBM-CBS entegrasyonu ile görülebilirlik analizi | Visibility analysis using BIM-GIS integration|Ecenur Çorlu|[Ulusal Tez Merkezi](https://tez.yok.gov.tr/UlusalTezMerkezi/giris.jsp)|2024|
 |Sergi alanlarının tasarım aşamasında yapı bilgi modeli tabanlı yangın simülasyonları| Building information modeling based fire simulations during the design phase of exhibition areas|Tuğay Özcan|[Ulusal Tez Merkezi](https://tez.yok.gov.tr/UlusalTezMerkezi/giris.jsp)|2024|
+|Metro yapılarında ISO 19650 tabanlı tasarım aşamasına yönelik mimari kontrol listesi modülü önerisi | Architectural checklist module proposal for ISO 19650 based design stage in metro structures|Azize Karadoğan Güleç | [Ulusal Tez Merkezi](https://tez.yok.gov.tr/UlusalTezMerkezi/giris.jsp)|2024|
+
+
+
 
 About 
 ======

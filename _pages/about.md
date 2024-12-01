@@ -23,7 +23,7 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 Research Paths
 ======
 
-Below you can find the fields that I study and my publications: 
+Below you can find the fields that I study and my journal & conference papers and book chapters. 
 
 Artificial Intelligence
 ------
@@ -58,7 +58,7 @@ Three key outputs were [paper on BIM-GIS integration](https://www.sciencedirect.
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Arabian Journal of Geosciences|Springer|2022|Scopus|No|Journal Paper|
+|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC||Springer|2022|Scopus|No|Journal Paper|
 
 BIM and IoT and GIS Integration for Smart Cities
 ------
@@ -72,7 +72,7 @@ Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT 
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Arabian Journal of Geosciences|Springer|2022|Scopus|No|Journal Paper|
+|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC||Springer|2022|Scopus|No|Journal Paper|
 
 BIM Intergration and Implementation
 ------ 
@@ -86,7 +86,7 @@ on BIM related reseach.
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[A generative design-to-BIM workflow for minimum weight plane truss design](https://revistadelaconstruccion.uc.cl/index.php/RDLC/article/view/46459)|Revista de la Construcción|Pontificia Universidad Católica de Chile|2022|SCIE|Yes|Journal Paper|
 |[Optimum Modelling for Rectangular Shape Reinforced Concrete (RC) Beam with the aim of Minimum CO2 Emission](https://scibulcom.net/en/article/XBkEmz7bCxV85y8Vz3sT)|Journal of Environmental Protection and Ecology|SBC|2021|SCIE|No|Journal Paper
-|[BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)|Construction Innovation|Emerald|2020|Scopus|No|Journal Paper|
+|[Emerging technologies for BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)|Construction Innovation|Emerald|2020|Scopus|No|Journal Paper|
 
 Construction Informatics
 ------
@@ -96,7 +96,7 @@ My PhD journey started by looking at IT Strategy for Turkish Construction Indust
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Arabian Journal of Geosciences|Springer|2022|Scopus|No|Journal Paper|
+|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC|Springer|2022|Scopus|No|Journal Paper|
 
 BIM for Valuation in 3D Cadastres
 ------
@@ -128,7 +128,7 @@ Papers involving surveys and qualitative social dimensions are listed here.
 
 Construction Management
 ------
-
+Paper related to construction management can be found in this list.
 {: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
@@ -202,6 +202,13 @@ Guest Lecture
 - Eskişehir Technical University
 - Gazi University.
 {: style="text-align: justify;"}
+
+Thesis of Students
+======
+|                       Title                                |         Title in English                  | Name  |Publisher | Year  |
+| ------------------------------------------------------------------| ---------------------------------- |-------|----------|-------|
+|YBM-CBS entegrasyonu ile görülebilirlik analizi | Visibility analysis using BIM-GIS integration|Ecenur Çorlu|[Ulusal Tez Merkezi](https://tez.yok.gov.tr/UlusalTezMerkezi/giris.jsp)|2024|
+|Sergi alanlarının tasarım aşamasında yapı bilgi modeli tabanlı yangın simülasyonları| Building information modeling based fire simulations during the design phase of exhibition areas|Tuğay Özcan|[Ulusal Tez Merkezi](https://tez.yok.gov.tr/UlusalTezMerkezi/giris.jsp)|2024|
 
 About 
 ======

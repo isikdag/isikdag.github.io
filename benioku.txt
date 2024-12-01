@@ -1,0 +1,20 @@
+_config
+
+data/navigation
+
+#to add an icon to the new link use /includes/author-profile
+
+#fontawesome.com
+
+
+-->yüklemek için GitHub desktop iyi !
+
+sayfalar 
+
+/pages de
+
+/pages/cv.md -->cv
+
+/pages/markdown.md -->markdown
+
+/pages/team.md -->team  (ben oluşturdum).

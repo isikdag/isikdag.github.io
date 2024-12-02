@@ -58,7 +58,7 @@ Three key outputs were [paper on BIM-GIS integration](https://www.sciencedirect.
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC||Springer|2022|Scopus|No|Journal Paper|
+|[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
 
 BIM and IoT and GIS Integration for Smart Cities
 ------
@@ -72,7 +72,7 @@ Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT 
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC||Springer|2022|Scopus|No|Journal Paper|
+|[An IoT Architecture for Facilitating Integration of GeoInformation](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023) |IJEG|Dergipark|2020|ESCI|Yes|Journal Paper|
 
 BIM Intergration and Implementation
 ------ 
@@ -87,6 +87,7 @@ on BIM related reseach.
 |[A generative design-to-BIM workflow for minimum weight plane truss design](https://revistadelaconstruccion.uc.cl/index.php/RDLC/article/view/46459)|Revista de la Construcción|Pontificia Universidad Católica de Chile|2022|SCIE|Yes|Journal Paper|
 |[Optimum Modelling for Rectangular Shape Reinforced Concrete (RC) Beam with the aim of Minimum CO2 Emission](https://scibulcom.net/en/article/XBkEmz7bCxV85y8Vz3sT)|Journal of Environmental Protection and Ecology|SBC|2021|SCIE|No|Journal Paper
 |[Emerging technologies for BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)|Construction Innovation|Emerald|2020|Scopus|No|Journal Paper|
+|[Building Information Management (BIM),A New Approach to Project Management](https://dergipark.org.tr/en/pub/jscmt/issue/48748/620252)|JSCMT|Yildiz Technical University|2019|Scopus|Yes|Journal Paper|
 
 Construction Informatics
 ------
@@ -100,11 +101,13 @@ My PhD journey started by looking at IT Strategy for Turkish Construction Indust
 
 BIM for Valuation in 3D Cadastres
 ------
-Below you can find research outputs regarding this subject. Most of the papers was from PhD of [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr)
+Below you can find research outputs regarding this subject. Most of the papers is in collaboration with [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr) 
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[The LADM Valuation Information Model and its application to the Turkey case](https://www.sciencedirect.com/science/article/pii/S0264837721000302)|Land Use Policy|Elsevier|2021|SCIE|No|Journal Paper|
+|[3 Dimensional data research for property valuation in the context of the LADM Valuation Information Model](https://www.sciencedirect.com/science/article/abs/pii/S0264837719306635?via=ihub)|Land Use Policy|Elsevier|2020|SCIE|No|Journal Paper|
+
 
 Construction Econometrics
 ------

@@ -70,23 +70,22 @@ My integration related research later explained in this [paper](https://www.scie
 and this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696), later this [paper](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023) 
 explains some ideas from the GeoInformation Management perspective.
 Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
+
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[An IoT Architecture for Facilitating Integration of GeoInformation](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023)|IJEG|Dergipark|2020|ESCI|Yes|Journal Paper|
 {: style="text-align: justify;"}
 
 3D GIS and Indoor Modeling
 -----
 This section covers my studies on 3D GIS models and Indoor Modeling.
+{: style="text-align: justify;"}
+
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
 |[Semi-Automatic 3D City Model Generation from Large-Format Aerial Images](https://www.mdpi.com/2220-9964/7/9/339)|ISPRS Int. J. Geo-Inf|MDPI|2018|SCIE|Yes|Journal Paper|
 
-
-BIM and IoT and GIS Integration for Smart Cities
------
-This section covers my studies on multi-source integration and integration of real-time information.
-|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
-| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[An IoT Architecture for Facilitating Integration of GeoInformation](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023)|IJEG|Dergipark|2020|ESCI|Yes|Journal Paper|
 
 BIM Intergration and Implementation
 ------ 
@@ -116,6 +115,7 @@ My PhD journey started by looking at IT Strategy for Turkish Construction Indust
 BIM for Valuation in 3D Cadastres
 ------
 Below you can find research outputs regarding this subject. Most of the papers is in collaboration with [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr) 
+{: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
@@ -127,7 +127,6 @@ Below you can find research outputs regarding this subject. Most of the papers i
 Construction Econometrics
 ------
 Looking at the some problems in our field from Econometrics perspective.
-
 {: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |

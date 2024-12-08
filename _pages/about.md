@@ -59,6 +59,7 @@ Three key outputs were [paper on BIM-GIS integration](https://www.sciencedirect.
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC|Springer|2022|Scopus|No|Journal Paper|
 
 
 BIM and IoT and GIS Integration for Smart Cities

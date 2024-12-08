@@ -33,6 +33,7 @@ Today I focus on ML,ANNs,DL,Transformers,GPTs and other Generative Learning Mode
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Adaptive Neural Architecture Search Using Meta-Heuristics: Discovering Fine-Tuned Predictive Models for Photocatalytic CO2 Reduction](Adaptive Neural Architecture Search Using Meta-Heuristics: Discovering Fine-Tuned Predictive Models for Photocatalytic CO2 Reduction)|Sustainability| MDPI|2024|SCIE|Yes|Journal Paper |
 |[Drying shrinkage and crack width prediction using machine learning in mortars containing different types of industrial by-product fine aggregates](https://www.sciencedirect.com/science/article/abs/pii/S2352710224023052)| Journal of Building Engineering |Elsevier |2024  | SCIE | No | Journal Paper |
 |[Cooling load prediction of a double-story terrace house using ensemble learning techniques and genetic programming with SHAP approach](https://www.sciencedirect.com/science/article/abs/pii/S0378778824003700)| Energy and Buildings |Elsevier|2024 | SCIE | No |Journal Paper |
 |[Optimizing artificial neural network architectures for enhanced soil type classification](https://www.techno-press.org/content/?page=article&journal=gae&volume=37&num=3&ordernum=6)|Geomechanics and Engineering|Techno Press | 2024 |SCIE | No |Journal Paper |

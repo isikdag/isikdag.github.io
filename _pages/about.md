@@ -59,7 +59,7 @@ Three key outputs were [paper on BIM-GIS integration](https://www.sciencedirect.
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
+
 
 BIM and IoT and GIS Integration for Smart Cities
 ------
@@ -71,6 +71,17 @@ explains some ideas from the GeoInformation Management perspective.
 Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
 {: style="text-align: justify;"}
 
+3D GIS and Indoor Modeling
+-----
+
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
+|[Semi-Automatic 3D City Model Generation from Large-Format Aerial Images](https://www.mdpi.com/2220-9964/7/9/339)|ISPRS Int. J. Geo-Inf|MDPI|2018|SCIE|Yes|Journal Paper|
+
+
+BIM and IoT and GIS Integration for Smart Cities
+-----
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[An IoT Architecture for Facilitating Integration of GeoInformation](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023) |IJEG|Dergipark|2020|ESCI|Yes|Journal Paper|
@@ -108,6 +119,7 @@ Below you can find research outputs regarding this subject. Most of the papers i
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[The LADM Valuation Information Model and its application to the Turkey case](https://www.sciencedirect.com/science/article/pii/S0264837721000302)|Land Use Policy|Elsevier|2021|SCIE|No|Journal Paper|
 |[3 Dimensional data research for property valuation in the context of the LADM Valuation Information Model](https://www.sciencedirect.com/science/article/abs/pii/S0264837719306635?via=ihub)|Land Use Policy|Elsevier|2020|SCIE|No|Journal Paper|
+|[Towards harmonizing property measurement standards](https://josis.org/index.php/josis/article/view/97)|Journal of Spatial Information Science|Independent|2018|ESCI|Yes|Journal Paper|
 
 
 Construction Econometrics

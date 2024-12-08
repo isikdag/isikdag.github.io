@@ -74,7 +74,7 @@ Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT 
 
 3D GIS and Indoor Modeling
 -----
-
+This section covers my studies on 3D GIS models and Indoor Modeling.
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
@@ -83,9 +83,10 @@ Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT 
 
 BIM and IoT and GIS Integration for Smart Cities
 -----
+This section covers my studies on multi-source integration and integration of real-time information.
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[An IoT Architecture for Facilitating Integration of GeoInformation](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023) |IJEG|Dergipark|2020|ESCI|Yes|Journal Paper|
+|[An IoT Architecture for Facilitating Integration of GeoInformation](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023)|IJEG|Dergipark|2020|ESCI|Yes|Journal Paper|
 
 BIM Intergration and Implementation
 ------ 

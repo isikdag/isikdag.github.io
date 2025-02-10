@@ -102,7 +102,7 @@ on BIM related reseach.
 |[Optimum Modelling for Rectangular Shape Reinforced Concrete (RC) Beam with the aim of Minimum CO2 Emission](https://scibulcom.net/en/article/XBkEmz7bCxV85y8Vz3sT)|Journal of Environmental Protection and Ecology|SBC|2021|SCIE|No|Journal Paper
 |[Emerging technologies for BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)|Construction Innovation|Emerald|2020|Scopus|No|Journal Paper|
 |[Building Information Management (BIM),A New Approach to Project Management](https://dergipark.org.tr/en/pub/jscmt/issue/48748/620252)|JSCMT|Yildiz Technical University|2019|Scopus|Yes|Journal Paper|
-
+|[Energy Analysis of Wall Materials Using Building Information Modeling (BIM) of Public Buildings in the Tropical Climate Countries]|Jurnal Teknologi|UTM Press|2016|ESCI|Yes|Journal Paper|
 Construction Informatics
 ------
 My PhD journey started by looking at IT Strategy for Turkish Construction Industry :01-02, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)

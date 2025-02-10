@@ -77,6 +77,7 @@ Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT 
 |[An IoT Architecture for Facilitating Integration of GeoInformation](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023)|IJEG|Dergipark|2020|ESCI|Yes|Journal Paper|
 {: style="text-align: justify;"}
 
+
 3D GIS and Indoor Modeling
 -----
 This section covers my studies on 3D GIS models and Indoor Modeling.
@@ -103,6 +104,8 @@ on BIM related reseach.
 |[Emerging technologies for BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)|Construction Innovation|Emerald|2020|Scopus|No|Journal Paper|
 |[Building Information Management (BIM),A New Approach to Project Management](https://dergipark.org.tr/en/pub/jscmt/issue/48748/620252)|JSCMT|Yildiz Technical University|2019|Scopus|Yes|Journal Paper|
 |[Energy Analysis of Wall Materials Using Building Information Modeling (BIM) of Public Buildings in the Tropical Climate Countries](https://journals.utm.my/jurnalteknologi/article/view/7591)|Jurnal Teknologi|UTM Press|2016|ESCI|Yes|Journal Paper|
+
+
 Construction Informatics
 ------
 My PhD journey started by looking at IT Strategy for Turkish Construction Industry :01-02, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)

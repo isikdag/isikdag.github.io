@@ -136,7 +136,7 @@ Papers involving surveys and qualitative social dimensions are listed here.
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Sosyal Bilimler Araştırmacılarının İstatistik Paket Programlarına Karşı Tutumları](https://dergipark.org.tr/tr/pub/kefdergi/issue/53175/697099)|Kastamonu Eğitim Dergisi|Kastamonu Üniversitesi|2020|TR-Dizin|Yes|Journal Paper|
-|[An Investigation On The Attitudes Towards Adopting The Design By Coding Paradigm](https://www.az.itu.edu.tr/index.php/jfa/article/view/231)|A-Z ITU Journal of the Faculty of Architecture|2017|Scopus|Yes|Journal Paper|
+|[An Investigation On The Attitudes Towards Adopting The Design By Coding Paradigm](https://www.az.itu.edu.tr/index.php/jfa/article/view/231)|A-Z ITU Journal of the Faculty of Architecture|Istanbul Technical University|2017|Scopus|Yes|Journal Paper|
 
 Construction Management
 ------
@@ -144,7 +144,7 @@ Paper related to construction management can be found in this list.
 {: style="text-align: justify;"}
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Mapping the Processes of Donor-Funded Construction Projects](https://www.mdpi.com/2071-1050/10/7/2355)| Sustainability|MDPI|2018|SCIE|Yes|Journal Paper|
+|[Mapping the Processes of Donor-Funded Construction Projects](https://www.mdpi.com/2071-1050/10/7/2355)|Sustainability|MDPI|2018|SCIE|Yes|Journal Paper|
 
 Books and Proceedings
 ======

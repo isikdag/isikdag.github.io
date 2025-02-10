@@ -198,13 +198,13 @@ Lecturing
 -----
 - Ege University (FT :99-02)
 - Beykent University (FT :09-15)
-- Istanbul Kultur University (PT) 
-- Istanbul University (PT)
-- Bogazici University (PT)
-- Istanbul Technical University (PT)
-- Istanbul Esenyurt University (PT)
+- Istanbul Kultur University (PT :11-13) 
+- Istanbul University (PT :15-20)
+- Bogazici University (PT :16)
+- Istanbul Technical University (PT :20-)
+- Istanbul Esenyurt University (PT:17)
 
-Guest Lecture
+Guest Lecturing
 -----
 - TU Delft 
 - Universiti Teknologi Malaysia 

@@ -33,6 +33,7 @@ Today I focus on ML,ANNs,DL,Transformers,GPTs and other Generative Learning Mode
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Shear Wave Velocity Prediction with Hyperparameter Optimization](https://www.mdpi.com/2078-2489/16/1/60)|Information| MDPI|2025|ESCI|Yes|Journal Paper |
 |[Adaptive Neural Architecture Search Using Meta-Heuristics: Discovering Fine-Tuned Predictive Models for Photocatalytic CO2 Reduction](https://www.mdpi.com/2071-1050/16/23/10756)|Sustainability| MDPI|2024|SCIE|Yes|Journal Paper |
 |[Drying shrinkage and crack width prediction using machine learning in mortars containing different types of industrial by-product fine aggregates](https://www.sciencedirect.com/science/article/abs/pii/S2352710224023052)| Journal of Building Engineering |Elsevier |2024  | SCIE | No | Journal Paper |
 |[Cooling load prediction of a double-story terrace house using ensemble learning techniques and genetic programming with SHAP approach](https://www.sciencedirect.com/science/article/abs/pii/S0378778824003700)| Energy and Buildings |Elsevier|2024 | SCIE | No |Journal Paper |

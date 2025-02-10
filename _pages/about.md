@@ -153,7 +153,7 @@ Paper related to construction management can be found in this list.
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC |Springer|2022|Scopus|No|Journal Paper|
+|[Mapping the Processes of Donor-Funded Construction Projects](https://www.mdpi.com/2071-1050/10/7/2355)| Sustainability|MDPI|2018|SCIE|Yes|Journal Paper|
 
 Books and Proceedings
 ======

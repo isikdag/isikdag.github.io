@@ -99,7 +99,7 @@ on BIM related reseach.
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[A generative design-to-BIM workflow for minimum weight plane truss design](https://revistadelaconstruccion.uc.cl/index.php/RDLC/article/view/46459)|Revista de la Construcción|Pontificia Universidad Católica de Chile|2022|SCIE|Yes|Journal Paper|
-|[Optimum Modelling for Rectangular Shape Reinforced Concrete (RC) Beam with the aim of Minimum CO2 Emission](https://scibulcom.net/en/article/XBkEmz7bCxV85y8Vz3sT)|Journal of Environmental Protection and Ecology|SBC|2021|SCIE|No|Journal Paper
+|[Optimum Modelling for Rectangular Shape Reinforced Concrete (RC) Beam with the aim of Minimum CO2 Emission](https://scibulcom.net/en/article/XBkEmz7bCxV85y8Vz3sT)|Journal of Environmental Protection and Ecology|SBC|2021|SCIE|No|Journal Paper|
 |[Emerging technologies for BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)|Construction Innovation|Emerald|2020|Scopus|No|Journal Paper|
 |[Building Information Management (BIM),A New Approach to Project Management](https://dergipark.org.tr/en/pub/jscmt/issue/48748/620252)|JSCMT|Yildiz Technical University|2019|Scopus|Yes|Journal Paper|
 |[Energy Analysis of Wall Materials Using Building Information Modeling (BIM) of Public Buildings in the Tropical Climate Countries](https://journals.utm.my/jurnalteknologi/article/view/7591)|Jurnal Teknologi|UTM Press|2016|ESCI|Yes|Journal Paper|

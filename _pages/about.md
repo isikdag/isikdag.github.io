@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-        
+  
 Biography
 ======
 I am currently working as a Professor of Construction Informatics at the Department of Architecture in 
@@ -50,27 +50,18 @@ Today I focus on ML,ANNs,DL,Transformers,GPTs and other Generative Learning Mode
 |[Identifying Levels of Occupancy in Buildings using Automated Machine Learning (Issue:04A)](https://www.prt-parlar.de/download_list/?c=FEB_2021)|Fresenius Environmental Bulletin|Parlar Research & Technology |2021|SCIE|Yes|Journal Paper|
 |[Estimation of Occupancy Status and Levels for Indoor Spaces](https://scibulcom.net/en/article/UOXp9lQSOZ3NSx46PHh6)]|Journal of Environmental Protection and Ecology|SBC|2020|SCIE|No|Journal Paper |
 
-BIM and GIS Integration
+BIM,GIS,IoT,Digital Twins for Smart Cities
 ------
  My PhD research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 , where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring IFC objects and persisting into a 3D GeoDatabase as [multipatch](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/multipatch-geometry-type.pdf) features.
 Three key outputs were [paper on BIM-GIS integration](https://www.sciencedirect.com/science/article/abs/pii/S1474034608000499), an intro to the [indoor model](https://www.sciencedirect.com/science/article/abs/pii/S0198971513000434)
- developed, and use of integrated information for a [fire response](https://www.tandfonline.com/doi/abs/10.1080/17452007.2007.9684636) scenario.
-{: style="text-align: justify;"}
-
-|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
-| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC|Springer|2022|Scopus|No|Journal Paper|
-
-
-BIM and IoT and GIS Integration for Smart Cities
-------
-During my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on 
+ developed, and use of integrated information for a [fire response](https://www.tandfonline.com/doi/abs/10.1080/17452007.2007.9684636) scenario.During my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on 
 BIM,GIS,WSNs for Smart Cities for the [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)project. 
 My integration related research later explained in this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)
 and this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696), later this [paper](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023) 
 explains some ideas from the GeoInformation Management perspective.
-Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
+Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book.
+{: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
@@ -87,6 +78,17 @@ This section covers my studies on 3D GIS models and Indoor Modeling.
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
 |[Semi-Automatic 3D City Model Generation from Large-Format Aerial Images](https://www.mdpi.com/2220-9964/7/9/339)|ISPRS Int. J. Geo-Inf|MDPI|2018|SCIE|Yes|Journal Paper|
+
+BIM for Valuation in 3D Cadastres
+------
+Below you can find research outputs regarding this subject. Most of the papers is in collaboration with [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr) 
+{: style="text-align: justify;"}
+
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[The LADM Valuation Information Model and its application to the Turkey case](https://www.sciencedirect.com/science/article/pii/S0264837721000302)|Land Use Policy|Elsevier|2021|SCIE|No|Journal Paper|
+|[3 Dimensional data research for property valuation in the context of the LADM Valuation Information Model](https://www.sciencedirect.com/science/article/abs/pii/S0264837719306635?via=ihub)|Land Use Policy|Elsevier|2020|SCIE|No|Journal Paper|
+|[Towards harmonizing property measurement standards](https://josis.org/index.php/josis/article/view/97)|Journal of Spatial Information Science|Independent|2018|ESCI|Yes|Journal Paper|
 
 
 BIM Intergration and Implementation
@@ -116,18 +118,6 @@ My PhD journey started by looking at IT Strategy for Turkish Construction Indust
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC|Springer|2022|Scopus|No|Journal Paper|
 
-BIM for Valuation in 3D Cadastres
-------
-Below you can find research outputs regarding this subject. Most of the papers is in collaboration with [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr) 
-{: style="text-align: justify;"}
-
-|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
-| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[The LADM Valuation Information Model and its application to the Turkey case](https://www.sciencedirect.com/science/article/pii/S0264837721000302)|Land Use Policy|Elsevier|2021|SCIE|No|Journal Paper|
-|[3 Dimensional data research for property valuation in the context of the LADM Valuation Information Model](https://www.sciencedirect.com/science/article/abs/pii/S0264837719306635?via=ihub)|Land Use Policy|Elsevier|2020|SCIE|No|Journal Paper|
-|[Towards harmonizing property measurement standards](https://josis.org/index.php/josis/article/view/97)|Journal of Spatial Information Science|Independent|2018|ESCI|Yes|Journal Paper|
-
-
 Construction Econometrics
 ------
 Looking at the some problems in our field from Econometrics perspective.
@@ -147,13 +137,11 @@ Papers involving surveys and qualitative social dimensions are listed here.
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Sosyal Bilimler Araştırmacılarının İstatistik Paket Programlarına Karşı Tutumları](https://dergipark.org.tr/tr/pub/kefdergi/issue/53175/697099)|Kastamonu Eğitim Dergisi|Kastamonu Üniversitesi|2020|TR-Dizin|Yes|Journal Paper|
 |[An Investigation On The Attitudes Towards Adopting The Design By Coding Paradigm](https://www.az.itu.edu.tr/index.php/jfa/article/view/231)|A-Z ITU Journal of the Faculty of Architecture|2017|Scopus|Yes|Journal Paper|
+
 Construction Management
 ------
 Paper related to construction management can be found in this list.
 {: style="text-align: justify;"}
-
-
-
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Mapping the Processes of Donor-Funded Construction Projects](https://www.mdpi.com/2071-1050/10/7/2355)| Sustainability|MDPI|2018|SCIE|Yes|Journal Paper|

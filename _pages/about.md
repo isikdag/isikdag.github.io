@@ -143,7 +143,7 @@ Papers involving surveys and qualitative social dimensions are listed here.
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Sosyal Bilimler Araştırmacılarının İstatistik Paket Programlarına Karşı Tutumları](https://dergipark.org.tr/tr/pub/kefdergi/issue/53175/697099)|Kastamonu Eğitim Dergisi|Kastamonu Üniversitesi|2020|TR-Dizin|Yes|Journal Paper|
-
+|[An Investigation On The Attitudes Towards Adopting The Design By Coding Paradigm](https://www.az.itu.edu.tr/index.php/jfa/article/view/231)|A-Z ITU Journal of the Faculty of Architecture|2017|Scopus|Yes|Journal Paper|
 Construction Management
 ------
 Paper related to construction management can be found in this list.

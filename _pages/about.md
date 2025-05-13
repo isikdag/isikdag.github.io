@@ -72,13 +72,12 @@ Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT 
 3D GIS and Indoor Modeling
 -----
 This section covers my studies on 3D GIS models and Indoor Modeling.
-{: style="text-align: justify;"}
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
 |[Semi-Automatic 3D City Model Generation from Large-Format Aerial Images](https://www.mdpi.com/2220-9964/7/9/339)|ISPRS Int. J. Geo-Inf|MDPI|2018|SCIE|Yes|Journal Paper|
-
+|[A BIM-Oriented Model for supporting indoor navigation requirements](https://www.sciencedirect.com/science/article/abs/pii/S0198971513000434)|Computer Environment Urban Systems|Elsevier|2013|SSCI|No|Journal Paper|
 BIM for Valuation in 3D Cadastres
 ------
 Below you can find research outputs regarding this subject. Most of the papers is in collaboration with [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr) 
@@ -106,7 +105,7 @@ on BIM related reseach.
 |[Emerging technologies for BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)|Construction Innovation|Emerald|2020|Scopus|No|Journal Paper|
 |[Building Information Management (BIM),A New Approach to Project Management](https://dergipark.org.tr/en/pub/jscmt/issue/48748/620252)|JSCMT|Yildiz Technical University|2019|Scopus|Yes|Journal Paper|
 |[Energy Analysis of Wall Materials Using Building Information Modeling (BIM) of Public Buildings in the Tropical Climate Countries](https://journals.utm.my/jurnalteknologi/article/view/7591)|Jurnal Teknologi|UTM Press|2016|ESCI|Yes|Journal Paper|
-
+|[Design patterns for BIM-based service-oriented architectures](https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696)|Automation in Construction|Elsevier|2012|SCIE|No|Journal Paper|
 
 Construction Informatics
 ------
@@ -145,7 +144,7 @@ Paper related to construction management can be found in this list.
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Mapping the Processes of Donor-Funded Construction Projects](https://www.mdpi.com/2071-1050/10/7/2355)|Sustainability|MDPI|2018|SCIE|Yes|Journal Paper|
-
+|[Data Integration Capability Evaluation of ERP Systems: A Construction Industry Perspective](https://www.igi-global.com/journals/open-access/table-of-contents/international-journal-enterprise-information-systems/1086?v=9)|International Journal of Enterprise Information Systems|IGI-Global|2013|ESCI|No|Journal Paper|
 Books and Proceedings
 ======
 

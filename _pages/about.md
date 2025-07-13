@@ -76,7 +76,8 @@ This section covers my studies on 3D GIS models and Indoor Modeling.
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------| 
 |[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
-
+|[Semi-Automatic 3D City Model Generation from Large-Format Aerial Images](https://www.mdpi.com/2220-9964/7/9/339)|ISPRS Int. J. Geo-Inf|MDPI|2018|SCIE|Yes|Journal Paper|
+|[A BIM-Oriented Model for supporting indoor navigation requirements](https://www.sciencedirect.com/science/article/abs/pii/S0198971513000434)|Computer Environment Urban Systems|Elsevier|2013|SSCI|No|Journal Paper|
 
 
 BIM for Valuation in 3D Cadastres
@@ -128,6 +129,17 @@ Looking at the some problems in our field from Econometrics perspective.
 |[Estimating Construction Material Indices with ARIMA and Optimized NARNETs](https://www.techscience.com/cmc/v74n1/49860)|Computers Materials & Continua|Tech Science Press|2023|SCIE|Yes|Journal Paper|
 |[The application of Residual Augmented Least Squares method to predict the consistency properties of special clayey soils](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Arabian Journal of Geosciences|Springer|2022|Scopus|No|Journal Paper|
 
+Construction Management
+------
+Paper related to construction management can be found in this list.
+{: style="text-align: justify;"}
+
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Mapping the Processes of Donor-Funded Construction Projects](https://www.mdpi.com/2071-1050/10/7/2355)|Sustainability|MDPI|2018|SCIE|Yes|Journal Paper|
+|[Data Integration Capability Evaluation of ERP Systems: A Construction Industry Perspective](https://www.igi-global.com/journals/open-access/table-of-contents/international-journal-enterprise-information-systems/1086?v=9)|International Journal of Enterprise Information Systems|IGI-Global|2013|ESCI|No|Journal Paper|
+
+
 Social Science Research
 ------
 Papers involving surveys and qualitative social dimensions are listed here.
@@ -138,14 +150,7 @@ Papers involving surveys and qualitative social dimensions are listed here.
 |[Sosyal Bilimler Araştırmacılarının İstatistik Paket Programlarına Karşı Tutumları](https://dergipark.org.tr/tr/pub/kefdergi/issue/53175/697099)|Kastamonu Eğitim Dergisi|Kastamonu Üniversitesi|2020|TR-Dizin|Yes|Journal Paper|
 |[An Investigation On The Attitudes Towards Adopting The Design By Coding Paradigm](https://www.az.itu.edu.tr/index.php/jfa/article/view/231)|A-Z ITU Journal of the Faculty of Architecture|Istanbul Technical University|2017|Scopus|Yes|Journal Paper|
 
-Construction Management
-------
-Paper related to construction management can be found in this list.
-{: style="text-align: justify;"}
-|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
-| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Mapping the Processes of Donor-Funded Construction Projects](https://www.mdpi.com/2071-1050/10/7/2355)|Sustainability|MDPI|2018|SCIE|Yes|Journal Paper|
-|[Data Integration Capability Evaluation of ERP Systems: A Construction Industry Perspective](https://www.igi-global.com/journals/open-access/table-of-contents/international-journal-enterprise-information-systems/1086?v=9)|International Journal of Enterprise Information Systems|IGI-Global|2013|ESCI|No|Journal Paper|
+
 Books and Proceedings
 ======
 

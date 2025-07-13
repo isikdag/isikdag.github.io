@@ -76,8 +76,7 @@ This section covers my studies on 3D GIS models and Indoor Modeling.
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------| 
 |[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
-|[Semi-Automatic 3D City Model Generation from Large-Format Aerial Images](https://www.mdpi.com/2220-9964/7/9/339)|ISPRS Int. J. Geo-Inf|MDPI|2018|SCIE|Yes|Journal Paper|
-|[A BIM-Oriented Model for supporting indoor navigation requirements](https://www.sciencedirect.com/science/article/abs/pii/S0198971513000434)|Computer Environment Urban Systems|Elsevier|2013|SSCI|No|Journal Paper|
+
 
 
 BIM for Valuation in 3D Cadastres

@@ -159,18 +159,37 @@ Books
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Advances in Building Information Modeling Second Eurasian BIM Forum, EBF 2021, Istanbul, Turkey, November 11–12, 2021, Revised Selected Papers](https://link.springer.com/book/10.1007/978-3-031-16895-6|CCIS Series|Springer|2021|N/A|No|Book|
 |[Advances in Building Information Modeling: First Eurasian BIM Forum, EBF 2019, Istanbul, Turkey, May 31, 2019, Revised Selected Papers](https://link.springer.com/book/10.1007/978-3-030-42852-5)|CCIS Series|Springer|2019|N/A|No|Book|
 |[Enhanced Building Information Models Using IoT Services and Integration Patterns ](https://link.springer.com/book/10.1007/978-3-319-21825-0)|Springer Briefs in Computer Science|Springer|2015|N/A|No|Book|
 |[Innovations in 3D GeoInformation Sciences ](https://link.springer.com/book/10.1007/978-3-319-00515-7)|LNGC Series|Springer|2014|N/A|No|Book|
 |[Handbook of Research on Building Information Modeling and Construction Informatics ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|IGI Global|IGI Global|2009|N/A|No|Book|
 
 
-ISPRS Proceedings
+Conference Proceedings
 ------
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Placeholder](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|-|IGI Global|2010|Scopus|No|Journal Paper|
+
+
+
+Book Chapters
+------
+
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Advances in Building Information Modeling: First Eurasian BIM Forum, EBF 2019, Istanbul, Turkey, May 31, 2019, Revised Selected Papers](https://link.springer.com/book/10.1007/978-3-030-42852-5)|CCIS Series|Springer|2019|N/A|No|Book|
+|[Enhanced Building Information Models Using IoT Services and Integration Patterns ](https://link.springer.com/book/10.1007/978-3-319-21825-0)|Springer Briefs in Computer Science|Springer|2015|N/A|No|Book|
+|[Innovations in 3D GeoInformation Sciences ](https://link.springer.com/book/10.1007/978-3-319-00515-7)|LNGC Series|Springer|2014|N/A|No|Book|
+|[Handbook of Research on Building Information Modeling and Construction Informatics ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234)|IGI Global|IGI Global|2009|N/A|No|Book|
+
+
+
+
+
+
 
 Roles and Responsibilities
 ======

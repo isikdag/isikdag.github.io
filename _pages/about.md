@@ -140,7 +140,7 @@ Paper related to construction management can be found in this list.
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Mapping the Processes of Donor-Funded Construction Projects](https://www.mdpi.com/2071-1050/10/7/2355)|Sustainability|MDPI|2018|SCIE|Yes|Journal Paper|
 |[Data Integration Capability Evaluation of ERP Systems: A Construction Industry Perspective](https://www.igi-global.com/journals/open-access/table-of-contents/international-journal-enterprise-information-systems/1086?v=9)|International Journal of Enterprise Information Systems|IGI-Global|2013|ESCI|No|Journal Paper|
-|[The examination of performance management concept in the construction industry](files/nwsa.pdf)|e-Journal of New World Sciences Academy|New World Sciences Academy|2012|N/A|No|Journal Paper|
+|[The examination of performance management concept in the construction industry](files/nwsa.pdf)|e-Journal of New World Sciences Academy|New World Sciences Academy|2012|N/A|Github|Journal Paper|
 
 Social Science Research
 ------

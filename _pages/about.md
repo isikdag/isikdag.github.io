@@ -33,6 +33,8 @@ Today I focus on ML,ANNs,DL,Transformers,GPTs and other Generative Learning Mode
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[Predicting the area moment of inertia of beam and column using machine learning and HyperNetExplorer](https://link.springer.com/article/10.1007/s00521-025-11323-1)|Neural Computing and Applications|Springer|2025|Scopus|No|Journal Paper |
+|[Leveraging Neural Networks and Explainable AI for Cost-Effective Retaining Wall Design](https://www.techscience.com/CMES/v143n2/61442)|Computer Modeling in Engineering & Sciences|Tech Science Press|2025|SCIE|Yes|Journal Paper|
 |[Shear Wave Velocity Prediction with Hyperparameter Optimization](https://www.mdpi.com/2078-2489/16/1/60)|Information| MDPI|2025|ESCI|Yes|Journal Paper |
 |[Adaptive Neural Architecture Search Using Meta-Heuristics: Discovering Fine-Tuned Predictive Models for Photocatalytic CO2 Reduction](https://www.mdpi.com/2071-1050/16/23/10756)|Sustainability| MDPI|2024|SCIE|Yes|Journal Paper |
 |[Drying shrinkage and crack width prediction using machine learning in mortars containing different types of industrial by-product fine aggregates](https://www.sciencedirect.com/science/article/abs/pii/S2352710224023052)| Journal of Building Engineering |Elsevier |2024  | SCIE | No | Journal Paper |

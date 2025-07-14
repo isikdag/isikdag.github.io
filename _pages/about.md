@@ -50,7 +50,7 @@ Today I focus on ML,ANNs,DL,Transformers,GPTs and other Generative Learning Mode
 |[Forecasting PM10 Concentrations based on Machine and Deep Learning(Issue:08A)](https://www.prt-parlar.de/download_list/?c=FEB_2022)|Fresenius Environmental Bulletin|Parlar Research & Technology |2022|SCIE|Yes|Journal Paper|
 |[Classification of Haze in City Images with Convolutional Neural Networks and Transfer Learning](https://scibulcom.net/en/article/3XqvpDmh8BBh1VBoJwQb)|Journal of Environmental Protection and Ecology|SBC|2021|SCIE|No|Journal Paper |
 |[Identifying Levels of Occupancy in Buildings using Automated Machine Learning (Issue:04A)](https://www.prt-parlar.de/download_list/?c=FEB_2021)|Fresenius Environmental Bulletin|Parlar Research & Technology |2021|SCIE|Yes|Journal Paper|
-|[Estimation of Occupancy Status and Levels for Indoor Spaces](https://scibulcom.net/en/article/UOXp9lQSOZ3NSx46PHh6)]|Journal of Environmental Protection and Ecology|SBC|2020|SCIE|No|Journal Paper |
+|[Estimation of Occupancy Status and Levels for Indoor Spaces](https://scibulcom.net/en/article/UOXp9lQSOZ3NSx46PHh6)|Journal of Environmental Protection and Ecology|SBC|2020|SCIE|No|Journal Paper|
 
 BIM&GIS
 ------

@@ -52,7 +52,7 @@ Today I focus on ML,ANNs,DL,Transformers,GPTs and other Generative Learning Mode
 |[Identifying Levels of Occupancy in Buildings using Automated Machine Learning (Issue:04A)](https://www.prt-parlar.de/download_list/?c=FEB_2021)|Fresenius Environmental Bulletin|Parlar Research & Technology |2021|SCIE|Yes|Journal Paper|
 |[Estimation of Occupancy Status and Levels for Indoor Spaces](https://scibulcom.net/en/article/UOXp9lQSOZ3NSx46PHh6)]|Journal of Environmental Protection and Ecology|SBC|2020|SCIE|No|Journal Paper |
 
-BIM,GIS,IoT,Digital Twins for Smart Cities
+BIM&GIS
 ------
  My PhD research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 , where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring IFC objects and persisting into a 3D GeoDatabase as [multipatch](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/multipatch-geometry-type.pdf) features.
@@ -70,30 +70,6 @@ Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT 
 |[An IoT Architecture for Facilitating Integration of GeoInformation](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023)|IJEG|Dergipark|2020|ESCI|Yes|Journal Paper|
 {: style="text-align: justify;"}
 
-
-3D GIS and Indoor Modeling
------
-This section covers my studies on 3D GIS models and Indoor Modeling.
-
-|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
-| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------| 
-|[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
-|[Semi-Automatic 3D City Model Generation from Large-Format Aerial Images](https://www.mdpi.com/2220-9964/7/9/339)|ISPRS Int. J. Geo-Inf|MDPI|2018|SCIE|Yes|Journal Paper|
-|[A BIM-Oriented Model for supporting indoor navigation requirements](https://www.sciencedirect.com/science/article/abs/pii/S0198971513000434)|Computer Environment Urban Systems|Elsevier|2013|SSCI|No|Journal Paper|
-
-
-BIM for Valuation in 3D Cadastres
-------
-Below you can find research outputs regarding this subject. Most of the papers is in collaboration with [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr) 
-{: style="text-align: justify;"}
-
-|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
-| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[The LADM Valuation Information Model and its application to the Turkey case](https://www.sciencedirect.com/science/article/pii/S0264837721000302)|Land Use Policy|Elsevier|2021|SCIE|No|Journal Paper|
-|[3 Dimensional data research for property valuation in the context of the LADM Valuation Information Model](https://www.sciencedirect.com/science/article/abs/pii/S0264837719306635?via=ihub)|Land Use Policy|Elsevier|2020|SCIE|No|Journal Paper|
-|[Towards harmonizing property measurement standards](https://josis.org/index.php/josis/article/view/97)|Journal of Spatial Information Science|Independent|2018|ESCI|Yes|Journal Paper|
-
-
 BIM Intergration and Implementation
 ------ 
 Following PhD I and my supervisor [Jason Underwood](https://www.salford.ac.uk/our-staff/jason-underwood), worked on publishing the 1st edited/multi-author 
@@ -110,6 +86,29 @@ on BIM related reseach.
 |[Building Information Management (BIM),A New Approach to Project Management](https://dergipark.org.tr/en/pub/jscmt/issue/48748/620252)|JSCMT|Yildiz Technical University|2019|Scopus|Yes|Journal Paper|
 |[Energy Analysis of Wall Materials Using Building Information Modeling (BIM) of Public Buildings in the Tropical Climate Countries](https://journals.utm.my/jurnalteknologi/article/view/7591)|Jurnal Teknologi|UTM Press|2016|ESCI|Yes|Journal Paper|
 |[Design patterns for BIM-based service-oriented architectures](https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696)|Automation in Construction|Elsevier|2012|SCIE|No|Journal Paper|
+|[Two design patterns for facilitating Building Information Model-based synchronous collaboration[(https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)|Automation in Construction|Elsevier|2010|SCIE|No|Journal Paper|
+
+Indoor Modeling
+-----
+This section covers my studies on 3D GIS models and Indoor Modeling.
+
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------| 
+|[Spaces in Spatial Science and Urban Applications—State of the Art Review](https://www.mdpi.com/2220-9964/9/1/58)|ISPRS Int. J. Geo-Inf|MDPI|2020|SCIE|Yes|Journal Paper|
+|[Semi-Automatic 3D City Model Generation from Large-Format Aerial Images](https://www.mdpi.com/2220-9964/7/9/339)|ISPRS Int. J. Geo-Inf|MDPI|2018|SCIE|Yes|Journal Paper|
+|[A BIM-Oriented Model for supporting indoor navigation requirements](https://www.sciencedirect.com/science/article/abs/pii/S0198971513000434)|Computer Environment Urban Systems|Elsevier|2013|SSCI|No|Journal Paper|
+
+3D Cadastre & Property Valuation
+------
+Below you can find research outputs regarding this subject. Most of the papers is in collaboration with [Abdullah Kara](https://scholar.google.com.tr/citations?user=KFUq7y4AAAAJ&hl=tr) 
+{: style="text-align: justify;"}
+
+|                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
+| ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
+|[The LADM Valuation Information Model and its application to the Turkey case](https://www.sciencedirect.com/science/article/pii/S0264837721000302)|Land Use Policy|Elsevier|2021|SCIE|No|Journal Paper|
+|[3 Dimensional data research for property valuation in the context of the LADM Valuation Information Model](https://www.sciencedirect.com/science/article/abs/pii/S0264837719306635?via=ihub)|Land Use Policy|Elsevier|2020|SCIE|No|Journal Paper|
+|[Towards harmonizing property measurement standards](https://josis.org/index.php/josis/article/view/97)|Journal of Spatial Information Science|Independent|2018|ESCI|Yes|Journal Paper|
+
 
 Construction Informatics
 ------

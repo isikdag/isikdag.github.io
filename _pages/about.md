@@ -88,7 +88,7 @@ on BIM related reseach.
 |[Building Information Management (BIM),A New Approach to Project Management](https://dergipark.org.tr/en/pub/jscmt/issue/48748/620252)|JSCMT|Yildiz Technical University|2019|Scopus|Yes|Journal Paper|
 |[Energy Analysis of Wall Materials Using Building Information Modeling (BIM) of Public Buildings in the Tropical Climate Countries](https://journals.utm.my/jurnalteknologi/article/view/7591)|Jurnal Teknologi|UTM Press|2016|ESCI|Yes|Journal Paper|
 |[Design patterns for BIM-based service-oriented architectures](https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696)|Automation in Construction|Elsevier|2012|SCIE|No|Journal Paper|
-|[Two design patterns for facilitating Building Information Model-based synchronous collaboration[(https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)|Automation in Construction|Elsevier|2010|SCIE|No|Journal Paper|
+|[Two design patterns for facilitating Building Information Model-based synchronous collaboration](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)|Automation in Construction|Elsevier|2010|SCIE|No|Journal Paper|
 
 Indoor Modeling
 -----

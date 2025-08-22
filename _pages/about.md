@@ -23,7 +23,7 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 Research Paths
 ======
 
-Below you can find the fields that I study and my journal & conference papers and book chapters. 
+Below you can find the fields that I study and my journal & conference papers and book chapters.  
 
 Artificial Intelligence
 ------

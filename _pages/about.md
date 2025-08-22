@@ -70,6 +70,7 @@ Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[An IoT Architecture for Facilitating Integration of GeoInformation](https://dergipark.org.tr/en/pub/ijeg/issue/48877/587023)|IJEG|Dergipark|2020|ESCI|Yes|Journal Paper|
+|[An investigation into the applicability of building information models in geospatial environment in support of site selection and fire response management processes](https://www.sciencedirect.com/science/article/abs/pii/S1474034608000499)||Advanced Engineering Informatics|Elsevier|2008|SCIE|No|Journal Paper|
 {: style="text-align: justify;"}
 
 BIM Intergration and Implementation
@@ -120,7 +121,7 @@ My PhD journey started by looking at IT Strategy for Turkish Construction Indust
 
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
-|[Placeholder](https://link.springer.com/article/10.1007/s12517-022-09715-x)|Journal ABC|Springer|2022|Scopus|No|Journal Paper|
+|[Construction informatics in Turkey: strategic role of ICT and future research directions](https://www.itcon.org/paper/2009/27)|ITCON|Indepdendent|2009|Scopus|Yes|Journal Paper|
 
 Construction Econometrics
 ------

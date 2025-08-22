@@ -34,6 +34,7 @@ Today I focus on ML,ANNs,DL,Transformers,GPTs and other Generative Learning Mode
 |                       Publication                                 |         Source                     |Publisher | Year  | Index |Open Access|Type    |
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Predicting design suitability of box-shaped sustainable timber structural members using machine learning and hyperparameter optimization](https://link.springer.com/article/10.1007/s00521-025-11556-0)|Neural Computing and Applications|Springer|2025|Scopus|No|Journal Paper |
+|[Searching for the Best Artificial Neural Network Architecture to Estimate Column and Beam Element Dimensions](https://www.mdpi.com/2078-2489/16/8/660)|Information| MDPI|2025|ESCI|Yes|Journal Paper |
 |[Predicting the area moment of inertia of beam and column using machine learning and HyperNetExplorer](https://link.springer.com/article/10.1007/s00521-025-11323-1)|Neural Computing and Applications|Springer|2025|Scopus|No|Journal Paper |
 |[Leveraging Neural Networks and Explainable AI for Cost-Effective Retaining Wall Design](https://www.techscience.com/CMES/v143n2/61442)|Computer Modeling in Engineering & Sciences|Tech Science Press|2025|SCIE|Yes|Journal Paper|
 |[Shear Wave Velocity Prediction with Hyperparameter Optimization](https://www.mdpi.com/2078-2489/16/1/60)|Information| MDPI|2025|ESCI|Yes|Journal Paper |

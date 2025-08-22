@@ -153,7 +153,7 @@ Papers involving surveys and qualitative social dimensions are listed here.
 | ------------------------------------------------------------------| ---------------------------------- |----------|-------|-------|-----------|--------|
 |[Sosyal Bilimler Araştırmacılarının İstatistik Paket Programlarına Karşı Tutumları](https://dergipark.org.tr/tr/pub/kefdergi/issue/53175/697099)|Kastamonu Eğitim Dergisi|Kastamonu Üniversitesi|2020|TR-Dizin|Yes|Journal Paper|
 |[An Investigation On The Attitudes Towards Adopting The Design By Coding Paradigm](https://www.az.itu.edu.tr/index.php/jfa/article/view/231)|A-Z ITU Journal of the Faculty of Architecture|Istanbul Technical University|2017|Scopus|Yes|Journal Paper|
-
+|[Reflections on the 2008 U.S. Presidential Election in the Turkish Blogosphere](https://www.igi-global.com/article/reflections-2008-presidential-election-turkish/58557)|International Journal of Interactive Communication Systems and Technologies (IJICST)|IGI Global|2011|N/A|No|Journal Paper|
 
 Books and Proceedings
 ======
